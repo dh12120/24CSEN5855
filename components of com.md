@@ -1,4 +1,4 @@
-input devices
+# input devices
 keyboards
 computer mice
 cameras

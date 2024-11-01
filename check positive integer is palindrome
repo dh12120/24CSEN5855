@@ -23,3 +23,11 @@ else
 }
 return 0;
 }
+//output:
+ Enter an integer number:3344
+
+The given number= 3344
+ The reverse value =4433
+3344 is not Palindrome
+
+=== Code Execution Successful ===

@@ -13,3 +13,9 @@ int main() {
 }
 printf("\n The Reverse of %d is %d",t,rev);
 }
+//output:
+Enter an integer value:23
+
+ The Reverse of 23 is 32
+
+=== Code Execution Successful ===

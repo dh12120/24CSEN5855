@@ -19,3 +19,11 @@ int main() {
    
    
    return 0;
+//output:
+enter any number: 123
+
+
+ the sum of the digits in the entered number is : 6
+
+=== Code Execution Successful ===
+

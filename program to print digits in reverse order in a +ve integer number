@@ -16,5 +16,16 @@ int main() {
   
    return 0;
 }
+//output
+enter any number to be reversed: 4343
 
+
+after reversing:
+ 
+3
+4
+3
+4
+
+=== Code Execution Successful ===
 

@@ -22,3 +22,10 @@ else
 }
 return 0;
 }
+//output:
+Enter an integer number:323
+
+The given number= 323
+323 is not Armstrong
+
+=== Code Execution Successful ===
